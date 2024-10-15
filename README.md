@@ -1,4 +1,4 @@
-# API_Framework
+# API X Framework
 ### API (Application Programming Interface)
 Uma **API** é uma **interface** que permite que diferentes sistemas de software se comuniquem entre si. Ela define um conjunto de regras e protocolos que permitem que um programa peça informações ou serviços de outro programa. Exemplo: uma API de clima que fornece dados de temperatura para um aplicativo.
 
